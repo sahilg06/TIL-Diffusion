@@ -2,4 +2,4 @@
 
 For self-motivation to learn about diffusion in detail.
 
-- [ ] Resource 1
+- [x] Yannic Kilcher introductory [video](https://youtu.be/W-O7AZNzbzQ?si=l_P44RKqfIitlqDk)
