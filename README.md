@@ -9,3 +9,4 @@ For self-motivation to learn about diffusion.
 - [ ] Diffusion Models Beat GANs on Image Synthesis [paper](https://arxiv.org/pdf/2105.05233)
 - [x] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/abs/2112.10752)
 - [ ] Lil'Log [Blog](https://lilianweng.github.io/posts/2021-07-11-diffusion-models)
+- [ ] Lil's [Blog](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/) on Video Generation using Diffusion models
