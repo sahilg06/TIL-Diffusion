@@ -10,3 +10,4 @@ For self-motivation to learn about diffusion.
 - [x] High-Resolution Image Synthesis with Latent Diffusion Models [paper](https://arxiv.org/abs/2112.10752)
 - [ ] Lil'Log [Blog](https://lilianweng.github.io/posts/2021-07-11-diffusion-models)
 - [ ] Lil's [Blog](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/) on Video Generation using Diffusion models
+- [x] Scalable Diffusion Models with Transformers [paper](https://arxiv.org/abs/2212.09748)
